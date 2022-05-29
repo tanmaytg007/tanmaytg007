@@ -45,3 +45,8 @@ public class hashfuc{
         System.out.println(map);//to get a complete 
     }
 }
+
+
+
+
+   //hopes it helps 
